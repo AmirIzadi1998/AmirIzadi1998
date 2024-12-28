@@ -23,7 +23,7 @@
       src="https://img.icons8.com/?size=100&id=l7PLniR__Vsn&format=png&color=000000"></a>
   <a href="mailto:Amirizadi199831@gmail.com"><img
       src="https://img.icons8.com/?size=100&id=nQ4dZIRCI0nW&format=png&color=000000"></a>
-    <a href="https://https://www.instagram.com/amirizadi199831"><img
+    <a href="https://www.instagram.com/amirizadi199831"><img
       src="https://img.icons8.com/?size=100&id=5eT5OnLluNOx&format=png&color=000000"></a>
 </p>
 
