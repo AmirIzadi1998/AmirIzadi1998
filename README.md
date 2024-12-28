@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amir Izadi</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
 
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=6c09b952bhh5qss2segbd1sgze6qvs7qblgfboredo0cgtk5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+
 ![](https://komarev.com/ghpvc/?username=AmirIzadi1998&color=brightgreen&style=plastic&base=500&abbreviated=true)
 
 [![C#](https://img.shields.io/badge/C%23-4B0082?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
@@ -9,9 +11,8 @@
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
-- 🌱 
 
-- 💬 Ask me about **Ask me about c#, Asp.net, SQL Server, SignalR, Dapper ORM, OOP, SOLID**
+- 💬 Ask me about:  **Ask me about c#, Asp.net, SQL Server, SignalR, CQRS, Dapper ORM, OOP, SOLID**
 
 - 📫 How to reach me **Amirizadi199831@gmail.com**
 
