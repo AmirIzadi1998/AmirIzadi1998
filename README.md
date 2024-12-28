@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amir Izadi</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
 
+![](https://komarev.com/ghpvc/?username=AmirIzadi1998&color=brightgreen&style=plastic&base=500&abbreviated=true)
+</br>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=6c09b952bhh5qss2segbd1sgze6qvs7qblgfboredo0cgtk5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
-![](https://komarev.com/ghpvc/?username=AmirIzadi1998&color=brightgreen&style=plastic&base=500&abbreviated=true)
 
 [![C#](https://img.shields.io/badge/C%23-4B0082?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-000000?style=flat-square&logo=aspnet&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet/core)
