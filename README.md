@@ -22,7 +22,7 @@
       src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&labelColor=f4f4f4&logo=telegram&logoColor=D14836&link=https://t.me/Mansour_Vosooghi/"></a>
   <a href="mailto:Amirizadi199831@gmail.com"><img
       src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&labelColor=f4f4f4&logo=gmail&logoColor=D14836&link=mailto:Pirouz.vn@gmail.com/"></a>
-    <a href="https://https://www.instagram.com/amirizadi199831?igsh=MW8wMnh1NnM3ZDJ5Nw=="><img
+    <a href="https://https://www.instagram.com/amirizadi199831"><img
       src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=f4f4f4&logo=instagram&logoColor=E4405F&link=https://www.instagram.com/mansour.vn/"></a>
 </p>
 
